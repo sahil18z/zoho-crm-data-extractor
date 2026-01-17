@@ -112,6 +112,7 @@ This project was built to demonstrate:
     "lastSync": 1234567890
   }
 }
+```
 ## Storage Design
 
 - Per-module storage (Leads, Contacts, Accounts, Deals, Tasks)
@@ -121,7 +122,7 @@ This project was built to demonstrate:
 
 ## Project Structure
 
-
+```
 src
 ├── assets
 │   └── react.svg
@@ -145,7 +146,7 @@ src
 │   └── main.jsx
 └── storage
     └── schema.js
-
+```
 
 
 ##  How It Works
